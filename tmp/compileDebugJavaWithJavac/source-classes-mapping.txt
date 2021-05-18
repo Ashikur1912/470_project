@@ -1,0 +1,27 @@
+com/travelapp/model/RecentsData.java
+ com.travelapp.model.RecentsData
+com/travelapp/Adapter/TopPlacesAdapter.java
+ com.travelapp.Adapter.TopPlacesAdapter
+ com.travelapp.Adapter.TopPlacesAdapter$TopPlacesViewHolder
+com/travelapp/MainActivity.java
+ com.travelapp.MainActivity
+com/travelapp/DetailsActivity.java
+ com.travelapp.DetailsActivity
+com/travelapp/model/TopPlacesData.java
+ com.travelapp.model.TopPlacesData
+com/travelapp/SignUp.java
+ com.travelapp.SignUp
+ com.travelapp.SignUp$1
+ com.travelapp.SignUp$2
+ com.travelapp.SignUp$2$1
+com/travelapp/Adapter/RecentsAdapter.java
+ com.travelapp.Adapter.RecentsAdapter
+ com.travelapp.Adapter.RecentsAdapter$1
+ com.travelapp.Adapter.RecentsAdapter$RecentsViewHolder
+com/travelapp/LogIn.java
+ com.travelapp.LogIn
+ com.travelapp.LogIn$1
+ com.travelapp.LogIn$2
+ com.travelapp.LogIn$2$1
+com/travelapp/BuildConfig.java
+ com.travelapp.BuildConfig
