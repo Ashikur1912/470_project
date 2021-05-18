@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">travelApp</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="fullname">fullname</string>
+    <string name="signup">signup</string>
+    <string name="loginhere">loginhere</string>
+    <string name="log_in">Already have an account? LogIn</string>
+    <string name="sing_up">new here? Sing Up</string>
+    <string name="username">Username</string>
+    <string name="welcome_to_travelapp">Welcome to travelApp</string>
+    <string name="log_in_button">Log In</string>
+</resources>
